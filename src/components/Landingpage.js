@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { Grid, Cell } from "react-mdl";
 import "../App.css";
-// import '../img/Aboozar-Mojdeh.png'
+
 
 class Landingpage extends Component {
   render() {
@@ -13,6 +13,7 @@ class Landingpage extends Component {
               className="avatar-img"
               src="./img/Aboozar-Mojdeh.png"
               alt="Aboozar Mojdeh"
+              style={{borderRadius:'50%',height:'200px', marginTop:'5em'}}
               
             />
             <div className="banner-text">
