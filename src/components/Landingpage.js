@@ -13,11 +13,13 @@ class Landingpage extends Component {
               className="avatar-img"
               src="./img/Aboozar-Mojdeh.png"
               alt="Aboozar Mojdeh"
-              style={{borderRadius:'50%',height:'200px', marginTop:'5em'}}
+              style={{borderRadius:'50%', border:'2px solid white',height:'200px', marginTop:'5em'}}
               
             />
             <div className="banner-text">
-              <h1>Full Stack Web Developer</h1>
+            <h3>I'm Aboozar Mojdeh</h3>
+              <h5>Full Stack Web Developer</h5>
+              
               <hr />
               <p>
                 HTML/CSS | JavaScript | React | NodeJS | Express | MongoDB |
