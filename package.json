@@ -1,5 +1,7 @@
 {
   "name": "myportfoliowebsite",
+  "author": "Aboozar Mojdeh",
+  "license": "ISC",
   "version": "0.1.0",
   "homepage": "https://aboozarmojdeh.github.io/MyReactPortfolio/",
   "private": true,
