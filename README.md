@@ -4,7 +4,7 @@
 
 
 
-How to Pushi a Create React App to Github Pages:
+How to Push a Create React App to Github Pages:
 
 Add the following to package.json.
 
