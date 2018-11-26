@@ -45,7 +45,7 @@ class AboutMe extends Component {
                 href="https://www.trilogyed.com/blog/university-of-toronto-coding-boot-camp-review-aboozar-mojdeh/"
                 target="_blank" rel='noopener noreferrer'
               >
-                core-value dreams
+                my childhood dreams
               </a>{" "}
               since childhood, and recently rekindled this passion.
             </p>
@@ -65,8 +65,8 @@ class AboutMe extends Component {
               business on web, and it’s a fantastic process that I feel lucky to
               participate in. When I’m not coding, I am usually with my lovely
               wife, who loves shopping, sports and watching movies even more
-              than I do. I am very much a kid at heart, love to gardening,
-              practicing AIKIDO, play video games, and astronomy.
+              than I do. I am very much a kid at heart, love gardening,
+              practicing AIKIDO, playing video games, and watching astronomy documentaries.
             </p>
           </Cell>
         </Grid>

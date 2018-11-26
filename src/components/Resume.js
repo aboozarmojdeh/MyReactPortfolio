@@ -37,8 +37,7 @@ class Resume extends Component {
             <p>647-989-5563</p>
             <h5>Email</h5>
             <p>aboozar.mojdeh@gmail.com</p>
-            <h5>Web</h5>
-            <p>http://webyouweb.com</p>
+           
             
             <hr style={{ borderTop: "3px solid #833fb2", width: "50%" }} />
             <Button style={{border:'1px solid black',textAlign:'center',fontWeight:'bold'}} href="./img/AboozarMojdehCV.pdf" target="blank" colored>
@@ -49,8 +48,8 @@ class Resume extends Component {
             <h3>Experience</h3>
             <Experience
               startYear={2017}
-              endYear={2018}
-              jobName={"Freelance word press developer – Toronto, ON"}
+              endYear={'Present'}
+              jobName={"WordPress Developer – Toronto, Canada"}
               jobDescription={
                 "Executed WordPress websites for a catering company and Martial arts federation using the WooCommerce open source e-commerce plugin, Instagram FEED, YouTube and google map API, JavaScript, jQuery, CSS3 and HTML5. "
               }
@@ -58,7 +57,7 @@ class Resume extends Component {
             <Experience
               startYear={2016}
               endYear={2018}
-              jobName={"Team leader – IOEC – Tehran, IRAN"}
+              jobName={"Team leader – IOEC – Tehran, Iran"}
               jobDescription={` Worked as an engineer team leader to run a new project which were awarded from national oil company and needed accurate time management for cost saving.`}
             />
             <Experience
@@ -72,7 +71,7 @@ class Resume extends Component {
             <Education
               startYear={'March, 2018'}
               endYear={'November, 2018'}
-              schoolName={"University of Toronto, ON "}
+              schoolName={"University of Toronto, Canada "}
               schoolDescription={
                 `Full Stack Web Development Bootcamp, An intensive 24-week long boot camp dedicated to designing and building web applications. Skills learned consisted of HTML5, CSS3, Javascript, JQuery, Bootstrap, Firebase, Node Js, MySQL, MongoDB, Express, Handlebars JS, & React Js.`
               }
@@ -81,7 +80,7 @@ class Resume extends Component {
             <Education
               startYear={2004}
               endYear={2006}
-              schoolName={"University of Tehran, IRAN"}
+              schoolName={"University of Tehran, Iran"}
               schoolDescription={
                 "MS, Process Engineering (Separation Processes Design)"
               }
@@ -89,7 +88,7 @@ class Resume extends Component {
             <Education
               startYear={2000}
               endYear={2004}
-              schoolName={"University of Mashhad, IRAN"}
+              schoolName={"University of Mashhad, Iran"}
               schoolDescription={
                 "BS, Chemical Engineering (Gas Processes Design)"
               }
@@ -99,11 +98,12 @@ class Resume extends Component {
 
             <h3>Skills</h3>
             {/* <p style={{padding:'1em'}}>HTML5, CSS3, Javascript, JQuery, Bootstrap, Firebase, Node Js, MySQL, MongoDB, Express, Handlebars JS, & React Js, Project Management System(PMS), Material Management System(MMS), Invoicing Management System(IMS), MATLAB Software, Microsoft Offices</p> */}
-            <Skills skill={"HTML/ CSS"} progress={95} />
-            <Skills skill={"Javascript"} progress={85} />
-            <Skills skill={"MongoDB/ MySQL"} progress={80} />
-            <Skills skill={"React"} progress={60} />
-            <Skills skill={"NodeJs/ Express"} progress={60} />
+            <Skills skill={"HTML5/ CSS3"} progress={95} />
+            <Skills skill={"JavaScript"} progress={85} />
+            <Skills skill={"SQL/ MySQL"} progress={70} />
+            <Skills skill={"MongoDB"} progress={70} />
+            <Skills skill={"React.js"} progress={60} />
+            <Skills skill={"Node.js/ Express"} progress={60} />
             
             
           </Cell>

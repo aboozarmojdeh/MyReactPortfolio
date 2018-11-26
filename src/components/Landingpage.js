@@ -22,7 +22,7 @@ class Landingpage extends Component {
               
               <hr />
               <p>
-                HTML/CSS | JavaScript | React | NodeJS | Express | MongoDB |
+                HTML5/ CSS3 | JavaScript | React.js | Node.js | Express | MongoDB |
                 MySQL
               </p>
               <div className="social-links">
@@ -46,7 +46,7 @@ class Landingpage extends Component {
 
                  {/* Youtube */}
                  <a
-                  href="https://www.youtube.com"
+                  href="https://www.youtube.com/channel/UCE4MJ-cD2z7g-Y4Auvz0Vdg"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
