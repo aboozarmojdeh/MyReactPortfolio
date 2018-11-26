@@ -45,7 +45,7 @@ class AboutMe extends Component {
                 href="https://www.trilogyed.com/blog/university-of-toronto-coding-boot-camp-review-aboozar-mojdeh/"
                 target="_blank" rel='noopener noreferrer'
               >
-                my childhood dreams
+                my dreams
               </a>{" "}
               since childhood, and recently rekindled this passion.
             </p>
