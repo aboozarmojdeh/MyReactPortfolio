@@ -78,7 +78,7 @@ class Projects extends Component {
               <CardText>
                 This is a MERN full stack application that searches the New York
                 Times article search API, and allows users to save articles for
-                their future purposes....
+                their future purposes...
               </CardText>
               <CardActions border>
                 <Button
@@ -122,7 +122,7 @@ class Projects extends Component {
               <CardText>
                 A web app that lets users view and leave comments on the latest
                 news of Astronomy. Whenever a user visits site, the app scrape
-                stories from a news outlet of astronomy....
+                stories from a news outlet of astronomy...
               </CardText>
               <CardActions border>
                 <Button
@@ -162,7 +162,7 @@ class Projects extends Component {
               <CardText>
                 This is an online platform that stores data on lost and found
                 items. Users fill out form requests to list a new item they’ve
-                lost or an item they’ve found that needs to be returned.....
+                lost or an item they’ve found that needs to be returned...
               </CardText>
               <CardActions border>
                 <Button
@@ -206,7 +206,7 @@ class Projects extends Component {
               <CardText>
                 A web app that lets users plan a night or day after reach to
                 Toronto. The app will make all plan day arrangement for user and
-                map each location who desired to be visited....
+                map each location who desired to be visited...
               </CardText>
               <CardActions border>
                 <Button
@@ -246,7 +246,7 @@ class Projects extends Component {
               <CardText>
                 Train activity web application allows the user to set times for
                 the train. User is able to select and set train time schedules
-                and check what time next train will arrive......
+                and check what time next train will arrive...
               </CardText>
               <CardActions border>
                 <Button
@@ -288,7 +288,7 @@ class Projects extends Component {
                 Tahchin Food
               </CardTitle>
               <CardText>
-                Website for booking, reservation and food order placement....
+                Website for booking, reservation and food order placement...
               </CardText>
               <CardActions border>
                 <Button
@@ -320,7 +320,7 @@ class Projects extends Component {
               </CardTitle>
               <CardText>
                 Website for registration and managing the AIKIDO martial
-                artists......
+                artists...
               </CardText>
               <CardActions border>
                 <Button
@@ -398,7 +398,7 @@ class Projects extends Component {
               <CardText>
                 This is a MERN full stack application that searches the New York
                 Times article search API, and allows users to save articles for
-                their future purposes....
+                their future purposes...
               </CardText>
               <CardActions border>
                 <Button
@@ -437,7 +437,7 @@ class Projects extends Component {
               <CardText>
                 A web app that lets users view and leave comments on the latest
                 news of Astronomy. Whenever a user visits site, the app scrape
-                stories from a news outlet of astronomy....
+                stories from a news outlet of astronomy...
               </CardText>
               <CardActions border>
                 <Button
@@ -477,7 +477,7 @@ class Projects extends Component {
               <CardText>
                 This is an online platform that stores data on lost and found
                 items. Users fill out form requests to list a new item they’ve
-                lost or an item they’ve found that needs to be returned.....
+                lost or an item they’ve found that needs to be returned...
               </CardText>
               <CardActions border>
                 <Button
@@ -514,9 +514,7 @@ class Projects extends Component {
                 Plan My Night
               </CardTitle>
               <CardText>
-                A web app that lets users plan a night or day after reach to
-                Toronto. The app will make all plan day arrangement for user and
-                map each location who desired to be visited....
+              A web app that lets users plan a night or day out in Toronto. The app will plan all arrangements for the user and map each location they desire visit...
               </CardText>
               <CardActions border>
                 <Button
@@ -556,7 +554,7 @@ class Projects extends Component {
               <CardText>
                 Train activity web application allows the user to set times for
                 the train. User is able to select and set train time schedules
-                and check what time next train will arrive......
+                and check what time next train will arrive...
               </CardText>
               <CardActions border>
                 <Button
@@ -593,7 +591,7 @@ class Projects extends Component {
                 Tahchin Food
               </CardTitle>
               <CardText>
-                Website for booking, reservation and food order placement....
+                Website for booking, reservation and food order placement...
               </CardText>
               <CardActions border>
                 <Button
@@ -625,7 +623,7 @@ class Projects extends Component {
               </CardTitle>
               <CardText>
                 Website for registration and managing the AIKIDO martial
-                artists......
+                artists...
               </CardText>
               <CardActions border>
                 <Button

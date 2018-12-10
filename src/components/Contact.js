@@ -15,8 +15,7 @@ class Contact extends Component {
             />
             <p style={{ width: "75%", margin: "auto", paddingTop: "1em" }}>
               I love meeting new people and learning new things, so please feel
-              free to say hello and share a story with me. I am thrilled, and
-              truly loved to be helpful to all people and I am aspired to coach others.
+              free to say hello and share a story with me. I am thrilled, and truly love to be helpful to all people and I aspire to coach others.
             </p>
           </Cell>
           <Cell col={6}>

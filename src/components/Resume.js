@@ -49,7 +49,7 @@ class Resume extends Component {
             <Experience
               startYear={2017}
               endYear={'Present'}
-              jobName={"WordPress Developer – Toronto, Canada"}
+              jobName={"Web Developer – Toronto, Canada"}
               jobDescription={
                 "Executed WordPress websites for a catering company and Martial arts federation using the WooCommerce open source e-commerce plugin, Instagram FEED, YouTube and google map API, JavaScript, jQuery, CSS3 and HTML5. "
               }
@@ -98,12 +98,14 @@ class Resume extends Component {
 
             <h3>Skills</h3>
             {/* <p style={{padding:'1em'}}>HTML5, CSS3, Javascript, JQuery, Bootstrap, Firebase, Node Js, MySQL, MongoDB, Express, Handlebars JS, & React Js, Project Management System(PMS), Material Management System(MMS), Invoicing Management System(IMS), MATLAB Software, Microsoft Offices</p> */}
-            <Skills skill={"HTML5/ CSS3"} progress={95} />
+            
+            <p>HTML5/ CSS3, JavaScript, SQL/ MySQL, MongoDB, React.js, Node.js/ Express</p>
+            {/* <Skills skill={"HTML5/ CSS3"}  />
             <Skills skill={"JavaScript"} progress={85} />
             <Skills skill={"SQL/ MySQL"} progress={70} />
             <Skills skill={"MongoDB"} progress={70} />
             <Skills skill={"React.js"} progress={60} />
-            <Skills skill={"Node.js/ Express"} progress={60} />
+            <Skills skill={"Node.js/ Express"} progress={60} /> */}
             
             
           </Cell>
